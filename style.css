@@ -1,0 +1,38 @@
+.items{
+    margin-left: 500px;
+    color: dimgrey;
+    background-color: antiquewhite;
+    height: 1000px;
+    width: 500px;
+
+}
+img{
+    margin-left: 360px;
+    height: 150px;
+    width: 130px;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    
+}
+.content{
+    margin-left: 20px;
+}
+.box{
+    margin-left: 20px;
+}
+.under{
+    margin-left: 20px; 
+}
+.paragraph{
+    margin-left: 20px;
+}
+.one{
+
+    margin-left: 20px;
+
+}
+.sig{
+    margin-left: 400px;
+}
